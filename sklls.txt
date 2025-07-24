@@ -1,0 +1,3 @@
+Confident work with Git
+Writing automated tests
+Learn to translate from Elvish
